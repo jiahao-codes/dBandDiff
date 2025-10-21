@@ -10,7 +10,7 @@ If the code is useful to you, please consider citing it.
 
 
 ## Model Schematic Diagram
-![Model](https://github.com/jiahao-codes/GNNs-PDOS/blob/31db86bc26fb0db394fd80d0fdc8b17b76c8e470/pic/model.png)
+![Model](XXX)
 
 ## Dataset and Model weight
 Since the Model weight exceeded the limit of GitHub, they are shared via Google Drive:
