@@ -1,0 +1,44 @@
+{
+    "decoder": {
+        "type": "CSPNet",
+        "params": {
+            "hidden_dim": 512,
+            "latent_dim": 512,
+            "num_layers": 6,
+            "max_atoms": 118,
+            "act_fn": "silu",
+            "dis_emb": "sin",
+            "num_freqs": 128,
+            "edge_style": "fc",
+            "ln": true,
+            "ip": true,
+            "smooth": true,
+            "pred_type": true,
+            "dense": false,
+            "pooling": "mean",
+            "pred_scalar": false
+        }
+    },
+    "beta_scheduler": {
+        "type": "BetaScheduler",
+        "params": {
+            "timesteps": 1000,
+            "scheduler_mode": "cosine"
+        }
+    },
+    "sigma_scheduler": {
+        "type": "SigmaScheduler",
+        "params": {
+            "timesteps": 1000
+        }
+    },
+    "time_dim": 256,
+    "ops_dim": 128,
+    "d_band_center_dim": 256,
+    "cost_coord": 1.0,
+    "cost_lattice": 1.0,
+    "cost_type": 20.0,
+    "max_neighbors": 20,
+    "radius": 7.0,
+    "timesteps": 1000
+}
