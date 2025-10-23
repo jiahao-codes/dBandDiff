@@ -13,8 +13,8 @@ If the code is useful to you, please consider citing it.
 
 ### Step 2: Create a Conda Environment and Install Dependencies
 
-    conda create -n dbanddiff-training python=3.8 -y
-    conda activate dbanddiff-training
+    conda create -n dbanddiff python=3.8 -y
+    conda activate dbanddiff
     pip install -r requirements.txt
 
 ### Step 3: Run the **​[Training.ipynb](https://github.com/jiahao-codes/dBandDiff/blob/deebf70aec57daf4b683dcbbcdcc05f8228fe8f1/Training.ipynb)​**​ in Jupyter Notebook
@@ -24,8 +24,8 @@ If the code is useful to you, please consider citing it.
 ## Inference
 ### Step 1: Create a Conda Environment and Install Dependencies
 
-    conda create -n dbanddiff-inference python=3.8 -y
-    conda activate dbanddiff-inference
+    conda create -n dbanddiff python=3.8 -y
+    conda activate dbanddiff
     pip install -r requirements.txt
 
 ### Step 2: Download the model weights from Google Drive and place it in the same directory as "Generation.ipynb": https://drive.google.com/file/d/1fs1_qkx5HE40SU5xnBBHoVERTCKYt454/view?usp=sharing
