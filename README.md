@@ -28,8 +28,7 @@ If the code is useful to you, please consider citing it.
     conda activate dbanddiff-inference
     pip install -r requirements.txt
 
-### Step 2: Download the model weights from Google Drive and place it in the same directory as "Generation.ipynb":
-    https://drive.google.com/file/d/1fs1_qkx5HE40SU5xnBBHoVERTCKYt454/view?usp=sharing
+### Step 2: Download the model weights from Google Drive and place it in the same directory as "Generation.ipynb": https://drive.google.com/file/d/1fs1_qkx5HE40SU5xnBBHoVERTCKYt454/view?usp=sharing
     
 ### Step 3: Run the **​[Generation.ipynb](https://github.com/jiahao-codes/dBandDiff/blob/deebf70aec57daf4b683dcbbcdcc05f8228fe8f1/Generation.ipynb)​**​ in Jupyter Notebook
 
