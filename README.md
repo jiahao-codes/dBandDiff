@@ -36,6 +36,9 @@ https://drive.google.com/file/d/1fs1_qkx5HE40SU5xnBBHoVERTCKYt454/view?usp=shari
 # Model Schematic Diagram
 ![Model](https://github.com/jiahao-codes/dBandDiff/blob/0c694336cb502f4c42770611cdc0dafda8ef6bae/pic/Model%20Diagram.png)
 
+# Overview
+![Model](https://github.com/jiahao-codes/dBandDiff/blob/c4c5e28496c7575ac9760584b3f8ae1fe5a7384d/pic/2f9a9812ae9aa023943b76213fbe67e0.jpeg)
+
 # Dependency  
 Including **​[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)​**​, **​[PyTorch](https://github.com/pytorch/pytorch)​**​, **​[Pymatgen](https://github.com/materialsproject/pymatgen)​**, etc. Please refer to the **​[requirement.txt](https://github.com/jiahao-codes/dBandDiff/blob/cae010a74b32716a3d1cd047faf3c6ba6cf39d3d/requirements.txt)​**​ for details.
 
