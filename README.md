@@ -2,6 +2,10 @@
 This repository contains the model codes for the paper:  
 ​**​《d-band center-guided high-fidelity generative model for inverse materials design》**  
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cej.2025.169918-blue?labelColor=555555&style=flat&logoColor=white)](https://doi.org/10.1016/j.cej.2025.169918)  
+
+A crystal diffusion generative model that supports both d-band center and space group information as guiding
+conditions. Several novel strong adsorption materials were screened and demonstrated.
+
 If the paper is useful to you, kindly consider citing it.
 
 # Model Schematic Diagram
