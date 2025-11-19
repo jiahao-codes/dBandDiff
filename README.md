@@ -47,4 +47,5 @@ https://drive.google.com/file/d/1fs1_qkx5HE40SU5xnBBHoVERTCKYt454/view?usp=shari
 Including **​[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)​**​, **​[PyTorch](https://github.com/pytorch/pytorch)​**​, **​[Pymatgen](https://github.com/materialsproject/pymatgen)​**, etc. Please refer to the **​[requirement.txt](https://github.com/jiahao-codes/dBandDiff/blob/cae010a74b32716a3d1cd047faf3c6ba6cf39d3d/requirements.txt)​**​ for details.
 
 # Support  
+Thank **​[Rui Jiao (Tsinghua University)](https://github.com/jiaor17)​** for providing detailed guidance on the details of the source framework **​[DiffCSP++](https://github.com/jiaor17/DiffCSP-PP)​**.  
 For any questions, please raise issues or contact wogaho1999@gmail.com.
